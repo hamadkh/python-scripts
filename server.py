@@ -2,6 +2,7 @@
 #sudo kill -9 PID
 #hamad
 #web.py running the server 
+#python3 server.py 127.0.0.1
 
 import web
 
